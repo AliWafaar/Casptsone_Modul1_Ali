@@ -43,13 +43,11 @@ def tambah_produk():
         'harga': harga_baru
     }
 
-    print("Daftar Produk:")
     tampilkan_daftar_produk()
     print(f"{produk_baru} ({merek_baru}) berhasil ditambahkan ke daftar produk.")
 
 # Fungsi untuk menghapus produk
 def hapus_produk():
-    print("Daftar Produk:")
     tampilkan_daftar_produk()
 
     produk_hapus = int(input("Masukkan nomor SKU produk yang ingin dihapus: "))
@@ -63,7 +61,6 @@ def hapus_produk():
 
 # Fungsi untuk melakukan pembelian produk
 def beli_produk():
-    print("Daftar Produk:")
     tampilkan_daftar_produk()
 
     total_harga = 0
