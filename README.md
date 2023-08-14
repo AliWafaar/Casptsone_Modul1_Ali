@@ -20,8 +20,11 @@ Anda akan disambut dengan tampilan menu utama.
 
 4.Pilih menu nomor 4 untuk melakukan pembelian produk.
 
-5.Pilih menu nomor 5 untuk keluar dari program.
-![Menu Awal](https://github.com/AliWafaar/Casptsone_Modul1_Ali/assets/141825588/7c4def44-cb31-4a8a-85cf-5127c3ede51d)
+5.Pilih menu nomor 5 untuk Update Daftar Produk.
+
+6.Pilih menu nomor 6 untuk keluar dari program
+![Menu Awal](https://github.com/AliWafaar/Casptsone_Modul1_Ali/assets/141825588/7cbe8d67-e85b-494d-976f-36ed43be1f64)
+
 
 
   B.Menampilkan Daftar Produk
@@ -64,7 +67,23 @@ F.4 Setelah selesai, masukkan jumlah uang yang diberikan.
 Program akan menghitung total harga dan memberikan informasi tentang uang kembali atau kekurangan.
 ![Menu 4](https://github.com/AliWafaar/Casptsone_Modul1_Ali/assets/141825588/205460ff-83ec-4cdc-b21f-4970052d5058)
 
-G.Keluar dari Program
+G.Update Produk
+G.1 Pilih Menu Nomor 5 untuk melakukan pembelian produk.
 
-G.1 Pilih menu nomor 5 untuk keluar dari program. Terima kasih telah menggunakan program manajemen toko elektronik!
-![Menu 5](https://github.com/AliWafaar/Casptsone_Modul1_Ali/assets/141825588/5759b23c-d770-4281-8972-0a7f1ed2bb33)
+G.2 Masukan SKU produk yang ingin di update 
+
+G.3 Masukan Nama produk yang baru (Kosongkan jika tidak ingin di ubah)
+
+G.4 Masukan Merek produk yang baru (Kosongkan jika tidak ingin di ubah)
+
+G.5 Masukan stok produk yang baru (Kosongkan jika tidak ingin di ubah)
+
+G.6 Masukan Harga produk yang baru (Kosongkan jika tidak ingin di ubah)
+![Menu 5](https://github.com/AliWafaar/Casptsone_Modul1_Ali/assets/141825588/df69ffd6-0bc5-40bf-b17c-56840e8327c7)
+
+
+H.Keluar dari Program
+
+H.1 Pilih menu nomor 6 untuk keluar dari program. Terima kasih telah menggunakan program manajemen toko elektronik!
+![Menu 6](https://github.com/AliWafaar/Casptsone_Modul1_Ali/assets/141825588/c86de87f-bc0e-4e24-a5b8-3cf78e12c78b)
+
