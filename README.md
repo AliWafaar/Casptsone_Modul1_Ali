@@ -25,44 +25,40 @@ Anda akan disambut dengan tampilan menu utama.
 
   B.Menampilkan Daftar Produk
 
-Pilih menu nomor 1 untuk menampilkan daftar produk yang ada beserta informasi seperti SKU, nama produk, merek, stok, dan harga.
+B.1 Pilih menu nomor 1 untuk menampilkan daftar produk yang ada beserta informasi seperti SKU, nama produk, merek, stok, dan harga.
 
   C.Menambah Produk Baru
 
-Pilih menu nomor 2 untuk menambahkan produk baru ke dalam daftar produk.
+C.1 Pilih menu nomor 2 untuk menambahkan produk baru ke dalam daftar produk.
 
-Masukkan nama produk baru.
+C.2 Masukkan nama produk baru.
 
-Masukkan merek produk baru.
+C.3 Masukkan merek produk baru.
 
-Masukkan jumlah stok produk baru.
+C.4 Masukkan jumlah stok produk baru.
 
-Masukkan harga produk baru (tanpa koma).
+C.5 Masukkan harga produk baru (tanpa koma).
 
-Menghapus Produk
+D.Menghapus Produk
 
-D.Pilih menu nomor 3 untuk menghapus produk dari daftar produk.
+D.1 Pilih menu nomor 3 untuk menghapus produk dari daftar produk.
 
-E.Tampilkan daftar produk.
-
-Masukkan nomor SKU produk yang ingin dihapus.
+D.2 Masukkan nomor SKU produk yang ingin dihapus.
 
 F.Membeli Produk
 
-Pilih menu nomor 4 untuk melakukan pembelian produk.
+F.1 Pilih menu nomor 4 untuk melakukan pembelian produk.
 
-Tampilkan daftar produk.
+F.2 Masukkan nomor SKU produk yang ingin dibeli.
 
-Masukkan nomor SKU produk yang ingin dibeli.
+F.3 Masukkan jumlah yang ingin dibeli.
 
-Masukkan jumlah yang ingin dibeli.
+(Ulangi langkah 2 dan 3 jika ingin membeli produk lain.)
 
-Ulangi langkah 2 dan 3 jika ingin membeli produk lain.
-
-Setelah selesai, masukkan jumlah uang yang diberikan.
+F.4 Setelah selesai, masukkan jumlah uang yang diberikan.
 
 Program akan menghitung total harga dan memberikan informasi tentang uang kembali atau kekurangan.
 
 G.Keluar dari Program
 
-Pilih menu nomor 5 untuk keluar dari program. Terima kasih telah menggunakan program manajemen toko elektronik!
+G.1 Pilih menu nomor 5 untuk keluar dari program. Terima kasih telah menggunakan program manajemen toko elektronik!
