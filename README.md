@@ -1,4 +1,4 @@
-# Casptsone_Modul1_Ali
+# Capstsone_Modul1_Ali
 
 Petunjuk Penggunaan - Program Manajemen Toko Elektronik
 
@@ -8,7 +8,7 @@ Selamat datang di program manajemen toko elektronik! Program ini dirancang untuk
   A.Daftar Produk Awal
 Program ini dimulai dengan inisialisasi daftar produk awal. Anda dapat menambahkan, mengubah, atau menghapus produk sesuai kebutuhan Anda dengan mengikuti langkah-langkah di bawah.
 
-Jalankan program dengan menjalankan script Capstone Modul.py
+Jalankan program dengan menjalankan script Capstone_Modul1_Ali.py
 
 Anda akan disambut dengan tampilan menu utama.
 
