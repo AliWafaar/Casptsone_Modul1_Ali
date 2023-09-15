@@ -1,4 +1,4 @@
-#README
+# README
 
 Petunjuk Penggunaan - Program Manajemen Toko Elektronik
 
