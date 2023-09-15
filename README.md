@@ -1,4 +1,4 @@
-# Capstsone_Modul1_Ali
+#README
 
 Petunjuk Penggunaan - Program Manajemen Toko Elektronik
 
